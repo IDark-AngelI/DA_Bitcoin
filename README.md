@@ -12,6 +12,7 @@ Mining Bitcoin, Script for essentialmode
 5) Enjoy!
 
 # Resource Required
+essentialmode
 pNotify
 --------------------------------------------------------
 [FA]
@@ -28,5 +29,6 @@ Script Mining Bitcoin baraye essentialmode
 4) Ebarate "start DA_Bitcoin" ro be server.cfg ezafe konid.
 5) Enjoy!
 
-# Resource haye mored niaz
+# Resource haye morede niaz
+essentialmode
 pNotify
